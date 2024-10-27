@@ -3,7 +3,6 @@
 
 Welcome to the **Music Store Database Analysis** project! This project is a deep dive into a rich music store database, featuring data on artists, albums, genres, customers, employees, invoices, media types, playlists, and tracks. By leveraging PostgreSQL, the project extracts actionable insights to uncover key trends and opportunities within the music retail industry.
 
-*(Data Source: Kaggle)*
 
 ---
 
