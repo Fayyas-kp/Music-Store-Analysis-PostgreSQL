@@ -1,5 +1,5 @@
 # 🎶 Music Store Database Analysis with PostgreSQL
-![image alt](https://github.com/Fayyas-kp/Netflix-Dataset-Python/blob/42d4de03deb0996d47a329a7d9f83216a4938aa3/Netflix%20Data%20Analysis.jpg)
+![image alt](https://github.com/Fayyas-kp/Music-Store-Analysis-PostgreSQL/blob/fce764c459c37fdbd52f942e7a13abefb5c8aca6/Music_Store.jpg)
 
 Welcome to the **Music Store Database Analysis** project! This project is a deep dive into a rich music store database, featuring data on artists, albums, genres, customers, employees, invoices, media types, playlists, and tracks. By leveraging PostgreSQL, the project extracts actionable insights to uncover key trends and opportunities within the music retail industry.
 
